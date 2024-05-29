@@ -69,5 +69,6 @@ public class Homework1 {
         boolean result17 = fullName.equals("Привет");
         System.out.println(result17);
 
+        
     }
 }
